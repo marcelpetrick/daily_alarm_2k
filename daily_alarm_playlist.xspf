@@ -7,14 +7,14 @@
 			<title>Deutschlandlied</title>
 			<creator>Musikkorps der Bundeswehr, Siegburg Leitung: Oberstleutnant Walter Ratzek</creator>
 			<annotation>1+19F47C968AE3CFD885D42C72BBC46A85+2878621</annotation>
-			<duration>74056</duration>
+			<duration>74076</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>0</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///home/pi/Desktop/music_for_daily_alarm/songs/Lijepa_nasa_domovino_instrumental.ogg</location>
-			<duration>59000</duration>
+			<location>file:///home/pi/Desktop/music_for_daily_alarm/songs/Lijepa_nasa_domovino_instrumental.mp3</location>
+			<duration>59807</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>1</vlc:id>
 			</extension>

@@ -1,3 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
-vlc --playlist-autostart --random daily_alarm_playlist.xspf
+#echo "$(date)" >> Desktop/music_for_daily_alarm/daily_alarm_runs.log
+cvlc --playlist-autostart --random --loop Desktop/music_for_daily_alarm/daily_alarm_playlist.xspf

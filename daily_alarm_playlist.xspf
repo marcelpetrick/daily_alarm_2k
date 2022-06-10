@@ -3,7 +3,7 @@
 	<title>Playlist</title>
 	<trackList>
 		<track>
-			<location>file:///home/pi/Desktop/music_for_daily_alarm/deutsche_nationalhymne.mp3</location>
+			<location>file:///home/pi/Desktop/music_for_daily_alarm/songs/deutsche_nationalhymne.mp3</location>
 			<title>Deutschlandlied</title>
 			<creator>Musikkorps der Bundeswehr, Siegburg Leitung: Oberstleutnant Walter Ratzek</creator>
 			<annotation>1+19F47C968AE3CFD885D42C72BBC46A85+2878621</annotation>
@@ -13,7 +13,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>file:///home/pi/Desktop/music_for_daily_alarm/Lijepa_nasa_domovino_instrumental.ogg</location>
+			<location>file:///home/pi/Desktop/music_for_daily_alarm/songs/Lijepa_nasa_domovino_instrumental.ogg</location>
 			<duration>59000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>1</vlc:id>
